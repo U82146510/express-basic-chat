@@ -16,7 +16,7 @@ The app is written in TypeScript and runs on port 3000 for local deployment.
 Installation & Setup:
 ----------------------
 1. **Clone the Repository:**
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/U82146510/express-basic-chat.git
    cd your-repository
 
 2. **Install Dependencies:**
